@@ -20,6 +20,5 @@ const mohammed = {
     return "📧 modygamal355@gmail.com";
   }
 };
-
-console.log("Thanks for visiting! Let's explore the world of AI together 🚀");
 ```
+console.log("Thanks for visiting! Let's explore the world of AI together 🚀");
