@@ -1,7 +1,7 @@
 ```js
 // Hi there 👋 I'm Mohammed Gamal
 
-const mohammed = {
+let mohammed = {
   name: "Mohammed",
   role: "Front-End & Python Developer",
   faculty: "Faculty of Computers and Informatices",
@@ -18,7 +18,7 @@ const mohammed = {
   ],
   getInTouch: () => {
     return "📧 modygamal355@gmail.com";
+   console.log("Thanks for visiting! Let's explore the world of AI together 🚀");
   }
 };
 ```
-console.log("Thanks for visiting! Let's explore the world of AI together 🚀");
