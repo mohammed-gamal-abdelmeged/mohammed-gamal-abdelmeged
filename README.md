@@ -1,16 +1,25 @@
-## Hi there 👋
+```js
+// Hi there 👋 I'm Mohammed Gamal
 
-<!--
-**mohammed-gamal-abdelmeged/mohammed-gamal-abdelmeged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const mohammed = {
+  name: "Mohammed",
+  role: "Front-End & Python Developer",
+  faculty: "Faculty of Computers and Informatices",
+  department: "Artificial Intelligence ",
+  techStack: {
+    core: ["Python", "HTML", "CSS", "JavaScript"],
+    learning: ["Data Science","Pandas", "NumPy", "Matplotlib"],
+    familiar: ["SQL", "Git", "Problem Solving"]
+  },
+  projects: [
+    "Data Analysis with Pandas",
+    "Simple ML models in Python",
+    "Web pages using HTML/CSS/JS"
+  ],
+  getInTouch: () => {
+    return "📧 modygamal355@gmail.com";
+  }
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log("Thanks for visiting! Let's explore the world of AI together 🚀");
+```
