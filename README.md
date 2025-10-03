@@ -7,15 +7,10 @@ const mohammed = {
   faculty: "Faculty of Computers and Informatices",
   department: "Artificial Intelligence ",
   techStack: {
-    core: ["Python", "HTML", "CSS", "JavaScript"],
+    core: ["Python", "HTML", "CSS", "JavaScript","Bootstrap","Tailwind css", "React.js"],
     learning: ["Data Science","Pandas", "NumPy", "Matplotlib"],
     familiar: ["SQL", "Git", "Problem Solving"]
   },
-  projects: [
-    "Data Analysis with Pandas",
-    "Simple ML models in Python",
-    "Web pages using HTML/CSS/JS"
-  ],
   getInTouch: () => {
     return "📧 modygamal355@gmail.com";
   }
